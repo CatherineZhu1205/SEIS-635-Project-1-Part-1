@@ -1,0 +1,12 @@
+User Stories:
+1. As a player, I would like the ‘Concentration’ card game in real life to be accessible on mobile devices so that I can play it without physical cards to easily enhance my memory.
+2. As a player, I would like to choose the difficulty of the mobile game so that I can have options on game challenges and gradually grow my memory skills.
+3. As a player, I would like to select competitors to play with in each round or play individually so that I can decide the style and dynamic of the game to play.
+4. As a player, I would like to choose the interface style such as color scheme so that I can play on different game surfaces based on time changing and personal preferences.
+5. As a player, I would like to have the option to decide initial memory time length for all cards face up so that I can have an overview at the beginning of the game to help me memorize.
+6. As a player, I would like to see all cards face down after initial memorizing time so that I can start to pick cards.
+7. As a player, I would like to select and unselect cards by clicking on the screen and the program only allows 2 cards highlighted so that the paring rule is strictly controlled by the program.
+8. As a player, I would like to select two cards I wish a pair and the program will display them to indicate if a match so that I can know if they are a pair and if not, what the cards they are for me to memorize.
+9. As a player, I would like to have the unmatched cards I selected to display on mobile screen for 3 seconds so that I can memorize them within a time range.
+10. As a player, I would like to have the matched cards to be removed from the game surface so that I can play with only unmatched and unselected cards left.
+11. As a player, I would like the total score to pop up on screen at the end of the game so that I can know my performance in each round.
